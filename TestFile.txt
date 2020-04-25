@@ -1,2 +1,3 @@
 this is a test file 
 1010 0100
+new line added 
